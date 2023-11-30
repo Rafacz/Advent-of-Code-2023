@@ -1,0 +1,15 @@
+/node_modules
+/bin
+bin
+obj
+packages
+**/.vscode/
+.vscode/
+/src/client/.angular
+*.crt
+*.key
+.vs/
+.suo
+.cr
+/src/client/.angular/cache/15.2.1
+/src/Client/.angular/cache/15.2.1
