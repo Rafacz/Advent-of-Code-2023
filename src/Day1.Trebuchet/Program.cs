@@ -2,7 +2,7 @@
 
 namespace Day1.Trebuchet
 {
-	internal class Program
+	public class Program
 	{
 		static void Main(string[] args)
 		{
@@ -11,8 +11,7 @@ namespace Day1.Trebuchet
 
 			Console.ReadKey();
 		}
-
-		private static void Part2()
+		public static void Part2()
 		{
 			string filePath = Directory.GetCurrentDirectory() + "/input.txt";
 
@@ -91,7 +90,7 @@ namespace Day1.Trebuchet
 			}
 		}
 
-		private static void Part1()
+		public static void Part1()
 		{
 			string filePath = Directory.GetCurrentDirectory() + "/input.txt";
 
