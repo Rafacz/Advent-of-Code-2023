@@ -5,14 +5,15 @@ namespace X.Benchmarks
 	[MemoryDiagnoser]
 	[Orderer(BenchmarkDotNet.Order.SummaryOrderPolicy.FastestToSlowest)]
 	[RankColumn]
-	public class D1Benchmarks
+	public class D2Benchmarks
 	{
 		[Benchmark]
 		public void Part1()
-			=> Day1.Trebuchet.Program.Part1();
+			=> Day2.Cube_Conundrum.Program.Part1();
 
 		[Benchmark]
 		public void Part2()
-			=> Day1.Trebuchet.Program.Part2();
+			=> Day2.Cube_Conundrum.Program.Part2();
+
 	}
 }

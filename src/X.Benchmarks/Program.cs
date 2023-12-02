@@ -5,6 +5,7 @@
 		static void Main(string[] args)
 		{
 			//BenchmarkRunner.Run<D1Benchmarks>();
+			//BenchmarkRunner.Run<D2Benchmarks>();
 		}
 	}
 }

@@ -3,17 +3,15 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Day2.Cube_Conundrum</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="BenchmarkDotNet" Version="0.13.10" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Day1.Trebuchet\Day1.Trebuchet.csproj" />
-    <ProjectReference Include="..\Day2.Cube Conundrum\Day2.Cube Conundrum.csproj" />
+    <None Update="input.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
