@@ -8,10 +8,10 @@ namespace Day3.Gear_Ratios
 	{
 		public static void Main(string[] args)
 		{
-
-
-			Console.ReadLine();
+			Part1();
+			Part2();
 		}
+
 		public static void Part1()
 		{
 			string filePath = Directory.GetCurrentDirectory() + "/input.txt";
@@ -106,7 +106,6 @@ namespace Day3.Gear_Ratios
 					ptr2 = -2;
 				}
 			}
-
 		}
 
 		private static IEnumerable<Point> GetPoints(string[]? lines)
@@ -122,6 +121,7 @@ namespace Day3.Gear_Ratios
 				}
 			}
 		}
+
 		private static int PointWithinTwoAreasSum(Point point, ref List<Area> areas)
 		{
 			int sum = 0;
@@ -145,4 +145,5 @@ namespace Day3.Gear_Ratios
 			return 0;
 		}
 	}
+
 }

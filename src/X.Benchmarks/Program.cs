@@ -1,6 +1,4 @@
-﻿using BenchmarkDotNet.Running;
-
-namespace X.Benchmarks
+﻿namespace X.Benchmarks
 {
 	internal class Program
 	{
@@ -8,7 +6,7 @@ namespace X.Benchmarks
 		{
 			//BenchmarkRunner.Run<D1Benchmarks>();
 			//BenchmarkRunner.Run<D2Benchmarks>();
-			BenchmarkRunner.Run<D3Benchmarks>();
+			//BenchmarkRunner.Run<D3Benchmarks>();
 		}
 	}
 }
