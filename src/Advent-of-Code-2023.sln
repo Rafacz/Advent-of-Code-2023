@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "X.Benchmarks", "X.Benchmark
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2.Cube Conundrum", "Day2.Cube Conundrum\Day2.Cube Conundrum.csproj", "{2A69DB16-1C31-486F-AFC3-6BA26384BF63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3.Gear Ratios", "Day3.Gear Ratios\Day3.Gear Ratios.csproj", "{D4404FA0-4A1A-4D32-B18C-3E19E626A221}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3.Gear Ratios", "Day3.Gear Ratios\Day3.Gear Ratios.csproj", "{D4404FA0-4A1A-4D32-B18C-3E19E626A221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4.Scratchcards", "Day4.Scratchcards\Day4.Scratchcards.csproj", "{6B18ED26-8A2C-4852-851B-224815299EF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D4404FA0-4A1A-4D32-B18C-3E19E626A221}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4404FA0-4A1A-4D32-B18C-3E19E626A221}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4404FA0-4A1A-4D32-B18C-3E19E626A221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B18ED26-8A2C-4852-851B-224815299EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B18ED26-8A2C-4852-851B-224815299EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B18ED26-8A2C-4852-851B-224815299EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B18ED26-8A2C-4852-851B-224815299EF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

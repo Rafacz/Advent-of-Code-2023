@@ -15,6 +15,7 @@
     <ProjectReference Include="..\Day1.Trebuchet\Day1.Trebuchet.csproj" />
     <ProjectReference Include="..\Day2.Cube Conundrum\Day2.Cube Conundrum.csproj" />
     <ProjectReference Include="..\Day3.Gear Ratios\Day3.Gear Ratios.csproj" />
+    <ProjectReference Include="..\Day4.Scratchcards\Day4.Scratchcards.csproj" />
   </ItemGroup>
 
 </Project>
