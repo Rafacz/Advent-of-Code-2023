@@ -16,6 +16,8 @@
     <ProjectReference Include="..\Day2.Cube Conundrum\Day2.Cube Conundrum.csproj" />
     <ProjectReference Include="..\Day3.Gear Ratios\Day3.Gear Ratios.csproj" />
     <ProjectReference Include="..\Day4.Scratchcards\Day4.Scratchcards.csproj" />
+    <ProjectReference Include="..\Day5.If You Give A Seed A Fertilizer\Day5.If You Give A Seed A Fertilizer.csproj" />
+    <ProjectReference Include="..\Day6.Wait For It\Day6.Wait For It.csproj" />
   </ItemGroup>
 
 </Project>
