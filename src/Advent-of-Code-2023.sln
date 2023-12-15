@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day5.If You Give A Seed A F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day6.Wait For It", "Day6.Wait For It\Day6.Wait For It.csproj", "{A9A7A9FB-FED5-4662-A08E-4A163AB002BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7.Camel Cards", "Day7.Camel Cards\Day7.Camel Cards.csproj", "{95BA8A0F-FAD9-4974-998D-8FF57BA952A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day7.Camel Cards", "Day7.Camel Cards\Day7.Camel Cards.csproj", "{95BA8A0F-FAD9-4974-998D-8FF57BA952A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day8.Haunted Wasteland", "Day8.Haunted Wasteland\Day8.Haunted Wasteland.csproj", "{0AA7511A-B925-4D8A-ACA7-27B644F25D89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{95BA8A0F-FAD9-4974-998D-8FF57BA952A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95BA8A0F-FAD9-4974-998D-8FF57BA952A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95BA8A0F-FAD9-4974-998D-8FF57BA952A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AA7511A-B925-4D8A-ACA7-27B644F25D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA7511A-B925-4D8A-ACA7-27B644F25D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA7511A-B925-4D8A-ACA7-27B644F25D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA7511A-B925-4D8A-ACA7-27B644F25D89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

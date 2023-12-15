@@ -12,7 +12,8 @@ namespace X.Benchmarks
 			//BenchmarkRunner.Run<D4Benchmarks>();
 			//BenchmarkRunner.Run<D5Benchmarks>();
 			//BenchmarkRunner.Run<D6Benchmarks>();
-			BenchmarkRunner.Run<D7Benchmarks>();
+			//BenchmarkRunner.Run<D7Benchmarks>();
+			BenchmarkRunner.Run<D8Benchmarks>();
 		}
 	}
 }
