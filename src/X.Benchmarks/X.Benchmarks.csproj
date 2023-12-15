@@ -18,6 +18,7 @@
     <ProjectReference Include="..\Day4.Scratchcards\Day4.Scratchcards.csproj" />
     <ProjectReference Include="..\Day5.If You Give A Seed A Fertilizer\Day5.If You Give A Seed A Fertilizer.csproj" />
     <ProjectReference Include="..\Day6.Wait For It\Day6.Wait For It.csproj" />
+    <ProjectReference Include="..\Day7.Camel Cards\Day7.Camel Cards.csproj" />
   </ItemGroup>
 
 </Project>
